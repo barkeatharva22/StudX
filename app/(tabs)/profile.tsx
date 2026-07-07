@@ -51,8 +51,8 @@ export default function ProfileScreen() {
                 <Ionicons name="camera" size={12} color={colors.black} />
               </View>
             </View>
-            <Text style={styles.name}>Eesha Sharma</Text>
-            <Text style={styles.email}>eesha.designs@studx.app</Text>
+            <Text style={styles.name}>Fyntrix</Text>
+            <Text style={styles.email}>fyntrix.designs@studx.app</Text>
 
             <View style={styles.statsRow}>
               <View style={styles.statItem}>
